@@ -1,0 +1,12 @@
+.square{
+    display: flex;
+    box-sizing: border-box;
+   
+    height: 100px;
+    width: 100px;
+    color: white;
+    float: left;
+    margin: 4px;
+    
+}
+
